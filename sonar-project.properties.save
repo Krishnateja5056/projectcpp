@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=projectcpp1 \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://34.83.242.17:9000 \
+  -Dsonar.login=1bc50446293013fe9e15b5fdcf3a78f50c59e82b
