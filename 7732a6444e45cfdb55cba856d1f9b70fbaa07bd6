@@ -16,6 +16,23 @@
       "message": "Hi, your code looks great.",
       "revId": "7732a6444e45cfdb55cba856d1f9b70fbaa07bd6",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06bdf01e_f4e83ea2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019865
+      },
+      "writtenOn": "2022-01-29T16:57:16Z",
+      "side": 1,
+      "message": "hii",
+      "revId": "7732a6444e45cfdb55cba856d1f9b70fbaa07bd6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
