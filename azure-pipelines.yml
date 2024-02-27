@@ -12,7 +12,12 @@ pool:
 
 steps:
 - script: |
-    make .
+    mkdir make
+    cd make
+    cmake ..
+    make
   displayName: 'make'
 - script: |
     ls
+    pwd
+    whoami
