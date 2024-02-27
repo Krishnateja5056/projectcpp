@@ -23,3 +23,5 @@ steps:
     ls
     pwd
     whoami
+- publish: make/arithmetic
+  artifact: arithmetic
