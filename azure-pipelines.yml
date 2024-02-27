@@ -18,6 +18,7 @@ steps:
     make
     pwd
     ls
+    echo "{{ $Build.BuildId	}}"
   displayName: 'make'
 - script: |
     ls
