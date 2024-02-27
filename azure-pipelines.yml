@@ -18,7 +18,8 @@ steps:
     make
     pwd
     ls
-    echo $Build.BuildId
+    cd ..
+    echo "$Build.BuildId"
   displayName: 'make'
 - script: |
     ls
