@@ -20,6 +20,8 @@ steps:
     ls
     cd ..
     echo '$(Build.BuildNumber)'
+    echo '$(Build.BuildId)'
+    echo '$(Build.Repository.Name)'
   displayName: 'make'
 - script: |
     ls
