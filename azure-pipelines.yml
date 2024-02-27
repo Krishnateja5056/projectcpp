@@ -16,6 +16,8 @@ steps:
     cd make
     cmake ..
     make
+    pwd
+    ls
   displayName: 'make'
 - script: |
     ls
